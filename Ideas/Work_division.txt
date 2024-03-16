@@ -5,4 +5,4 @@ Type of images: pixel art top down background images, assets, main player, enemi
 Ofir - Extract and create pixel art images of the Ancient Rome, industrial revolution, and modern timese.
 Type of images: pixel art top down background imagse, assets, main player, enemies
 
-Yuval - Start create the base classes of the game + design some images of pixel art
+Yuval - Start create the base classes of the game + design some images of pixel art like books and reading stuff + search information about each period
