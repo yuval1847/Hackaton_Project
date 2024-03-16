@@ -1,3 +1,6 @@
 #####--Week 1--#####
 Nehoray - Extract and create pixel art images of the ancient egypt time and the medival time.
-Type of images: 
+Type of images: pixel art top down background images, assets, main player, enemies
+
+Ofir - Extract and create pixel art images of the Ancient Rome, industrial revolution, and modern timese.
+Type of images: pixel art top down background imagse, assets, main player, enemies
