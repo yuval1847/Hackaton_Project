@@ -1,11 +1,14 @@
 Here we will list our ideas to our game! so feel free to write anything that connect to the main idea of the games.
 
+
+
 Yuval, my idea is to create an adventure game which called: "Time Travel - Voyage Through History".
 In the game is an educational game where players embark on a journey through different time periods and geographical locations to learn about history and geography.
 
-Time Travel Mechanic: Players use a time machine to travel to various historical periods, such as ancient civilizations, medieval Europe, the Renaissance, industrial revolution, and modern times.
+Time Travel Mechanic: Players use a time machine to travel to various historical periods, such as The Ancient Egypt, medieval Europe, The Ancient Rome, industrial revolution, and modern times.
 
 Exploration and Quests: In each time period, players explore immersive environments, interact with historical figures, and complete quests related to significant events and landmarks.
+After he finished all the quest of the period he enter the fight with the periode's boss and fight with his by solving puzzles and questions about the current period.
 
 Educational Content: Throughout the game, players receive educational information and trivia about historical events, geographical features, famous landmarks, and significant figures.
 
