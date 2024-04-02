@@ -3,6 +3,11 @@ WINDOW_WIDTH = 1000
 WINDOW_HEIGHT = 600
 FPS = 30
 
+####------ BACKGROUND ------####
+
+BACKGROUND_IMG = 'Pictures/background.png'
+BACKGROUND_MUSIC = 'Pictures/background_music.mp3'
+
 
 ####------ Time Line animation ------####
 TIME_LINE_ANIMATION_BACKGROUND = "Assets\\Time_Axis_Animation\\Space_Background.png"
