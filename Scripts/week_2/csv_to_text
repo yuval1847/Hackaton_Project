@@ -1,0 +1,8 @@
+def scv_to_text(my_file):
+    list_of_dictionary = []
+    with open(my_file, "r", encoding="utf-8-sig") as file:
+        for i in range(5):
+            list_info = file.readline().split(",")
+            d = {"index": list_info[0], "info": list_info[1]}
+            list_of_dictionary.append(d)
+    return list_of_dictionary
